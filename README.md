@@ -6,11 +6,11 @@
 <br>
 </h1>
 <hr>
-<p align="center">Foi criado um CRUD - JSP com Cadastro, Impressão de Relatório e Gráfico com auxilio do mentor Alex -  <strong>JDev Treinamento.</strong></p>
+<p align="center">Aplicação Angular  -Pricipais conceitos Componentes, Rotas, Diretivas, Serviços, pipes com auxilio do mentor -  <strong>Eduardo Pires.</strong></p>
 <hr> <br>
 
 <div align="center">
-    <img src="src/assets/20220719_162536.gif" alt="SPA COM ANGULAR" height="325">
+    <img src="src/assets/20220719_162536.gif" alt="SPA COM ANGULAR" height="425">
     
 </div>
 <br>
@@ -30,15 +30,8 @@
 
 O projeto foi desenvolvido com as seguintes Tecnologias:
 
-- HTML5
-- CSS3
-- BOOTSTRAP 4
-- APACHE TOMCAT 9 
-- JDK 11
-- JASPER - BIBLIOTECA DE RELATÒRIO
-- JQUERY
-- POSTGRESQL 9.5
-- JSP
+- Angular 8
+- Bootstrap 4
 ---
 
 <p>Feito por Wyslan da Silva Alves, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/wyslanalves/">Wyslan Alves</a></p>
