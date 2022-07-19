@@ -1,27 +1,45 @@
-# MeuProjetoAngular
+# CRUD-JSP
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+<h1 align="center">
+<br>
+    <h1 align="center">CRUD Java - JSP</h1>
+<br>
+</h1>
+<hr>
+<p align="center">Foi criado um CRUD - JSP com Cadastro, Impressão de Relatório e Gráfico com auxilio do mentor Alex -  <strong>JDev Treinamento.</strong></p>
+<hr> <br>
 
-## Development server
+<div align="center">
+    <img src="src/assets/20220719_162536" alt="deluxebarber-gid-desktop" height="225">
+    
+</div>
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Projeto Hospedado
 
-## Build
+<p>O projeto está hospedado no Link abaixo:</p>
+<!--<a href="https://matheus-bezerra.github.io/deluxeBarberShop/">https://matheus-bezerra.github.io/deluxeBarberShop/></a>-->Indisponível
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
+<br>
 
-## Running unit tests
+## Tecnologias 💻
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O projeto foi desenvolvido com as seguintes Tecnologias:
 
-## Running end-to-end tests
+- HTML5
+- CSS3
+- BOOTSTRAP 4
+- APACHE TOMCAT 9 
+- JDK 11
+- JASPER - BIBLIOTECA DE RELATÒRIO
+- JQUERY
+- POSTGRESQL 9.5
+- JSP
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p>Feito por Wyslan da Silva Alves, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/wyslanalves/">Wyslan Alves</a></p>
+<p>Entre em contato por telefone -> (83) 98729 - 0083</p>
