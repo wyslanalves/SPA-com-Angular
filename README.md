@@ -10,7 +10,7 @@
 <hr> <br>
 
 <div align="center">
-    <img src="src/assets/20220719_162536" alt="deluxebarber-gid-desktop" height="225">
+    <img src="app/assets/20220719_162536" alt="deluxebarber-gid-desktop" height="225">
     
 </div>
 <br>
