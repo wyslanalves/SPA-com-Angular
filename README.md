@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <br>
-    <h1 align="center">CRUD Java - JSP</h1>
+    <h1 align="center">Desenvolvimento SPA com Angular</h1>
 <br>
 </h1>
 <hr>
