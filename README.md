@@ -10,7 +10,7 @@
 <hr> <br>
 
 <div align="center">
-    <img src="src/assets/20220719_162536.gif" alt="deluxebarber-gid-desktop" height="225">
+    <img src="src/assets/20220719_162536.gif" alt="SPA COM ANGULAR" height="325">
     
 </div>
 <br>
